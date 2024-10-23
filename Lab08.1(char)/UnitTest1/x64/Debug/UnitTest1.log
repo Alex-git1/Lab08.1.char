@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Student\PI-12\Symodeiko\AP\Lab08.1(char)\Lab08.1(char)\Lab08.1(char)\Lab08.1(char).cpp(14,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Student\PI-12\Symodeiko\AP\Lab08.1(char)\Lab08.1(char)\Lab08.1(char)\Lab08.1(char).cpp(29,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Student\PI-12\Symodeiko\AP\Lab08.1(char)\Lab08.1(char)\x64\Debug\UnitTest1.dll
